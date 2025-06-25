@@ -1,8 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on a customized CRM in Python for a company I work for
-- 🌱 I’m currently learning AWS
-- 💻 I'm a 2nd year software enginerring student at Universidad of Guadalajara
-- 👯 I’m looking for an IT Internship
-- 📫 How to reach me: send me a DM
-  
+DevOps Engineer with a passion for creating/discovering new things. I mainly focus on monitoring tools like Grafana, Prometheus, Datadog, Newrelic, Elasticsearch, etc. Experienced in GCP and AWS. I love navigating across the sea and smash-style burgers. 
